@@ -1,0 +1,6 @@
+/catboost_info
+/.git
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
